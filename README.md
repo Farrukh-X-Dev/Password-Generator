@@ -8,9 +8,9 @@
 
 ## 🎯 Motive
 
-> Practice **DOM Manipulation** by toggling visibility and updating content dynamically.  
-> Learn **Random Generation** by creating different types of passwords.  
-> Understand **CSS Effects** like transitions, animations (FadeIn), and layout styling with JS.
+- Practice **DOM Manipulation** by toggling visibility and updating content dynamically.  
+- Learn **Random Generation** by creating different types of passwords.  
+- Understand **CSS Effects** like transitions, animations (FadeIn), and layout styling with JS.
 
 ## 🛠️ Technologies
 
